@@ -1,6 +1,6 @@
 # Semi-Supervised Learning - Food Image Classification
 
-Classifying 11 types of food images utilize semi-supervised learning techniques with a non-pretrained ResNet18 model. The model has demonstrated a commendable accuracy rate of **79.14%** on the task.
+Classifying 11 types of food images utilizes semi-supervised learning techniques with a non-pretrained ResNet18 model. The model has demonstrated a commendable accuracy rate of **79.14%** on the task.
 
 ## Data Preparation
 
